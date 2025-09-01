@@ -1,0 +1,18 @@
+FIRST
+
+RUN APEX TALLY SETUP.EXE
+
+WAIT FOR SUCCESS MASSAGE 
+
+SEE ON DESKTOP FOR APEX TALLY PRIME SORTCUT
+
+USE TALLY WITH THIS SHORTCUT
+
+DELET TALLY SHORCUT FROM DESKTOP
+
+ENSURE TALLY MUST ME INSTALL ON d:\TALLYPRIME
+ALSO DATA FOLDER IN d:\TALLYPRIME\data
+
+hamesha data folder ka hi backup banega data1 ect ka nahi 
+
+loacl backup path check tally folder me apextallybackup folder 
